@@ -26,5 +26,7 @@ Next, happiness score was added to the filter shelf (selected all values; Happin
 
 ![World Happiness - 2017](https://drive.google.com/file/d/16NgxjDCFEaIvtwcw5MRRChKs2-JvYxkk/view?usp=sharing)
 
+![World Happiness - 2017](https://drive.google.com/file/d/16NgxjDCFEaIvtwcw5MRRChKs2-JvYxkk/view?usp=sharing)
+
 
 
