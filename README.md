@@ -28,5 +28,12 @@ Next, happiness score was added to the filter shelf (selected all values; Happin
 
 
 
+![World Happiness - 2017](https://github.com/Milica07/Tableau-World-Happiness/assets/93398437/6a799249-ccea-496e-8e62-796975ad9b82)
+
+
+
+
+
+
 
 
