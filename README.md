@@ -22,7 +22,7 @@ Happiness score was added as a label in the map (Happiness score is visible for 
 
 Next, happiness score was added to the filter shelf (selected all values; Happiness Score: 6.0 and below).   
 
-#### Link: https://public.tableau.com/shared/DZFDTGZQ4?:display_count=n&:origin=viz_share_link   
+#### [Tableau Link](https://public.tableau.com/shared/BBK5NSBKW?:display_count=n&:origin=viz_share_link)
 
 
 
